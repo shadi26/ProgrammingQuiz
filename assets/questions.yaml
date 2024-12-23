@@ -1,0 +1,470 @@
+- answers:
+    - isCorrect: false
+      text: A programming language
+    - isCorrect: true
+      text: A mobile app SDK
+    - isCorrect: false
+      text: A database
+    - isCorrect: false
+      text: None of the above
+  question: What is Flutter?
+- answers:
+    - isCorrect: false
+      text: Java
+    - isCorrect: true
+      text: Dart
+    - isCorrect: false
+      text: Python
+    - isCorrect: false
+      text: None of the above
+  question: Which language does Flutter use?
+- answers:
+    - isCorrect: false
+      text: A snake
+    - isCorrect: true
+      text: A programming language
+    - isCorrect: false
+      text: An IDE
+    - isCorrect: false
+      text: None of the above
+  question: What is Python?
+- answers:
+    - isCorrect: true
+      text: HyperText Markup Language
+    - isCorrect: false
+      text: HighText Machine Language
+    - isCorrect: false
+      text: HyperTool Machine Logic
+    - isCorrect: false
+      text: None of the above
+  question: What does HTML stand for?
+- answers:
+    - isCorrect: false
+      text: Microsoft
+    - isCorrect: true
+      text: Sun Microsystems
+    - isCorrect: false
+      text: Apple
+    - isCorrect: false
+      text: None of the above
+  question: Which company developed Java?
+- answers:
+    - isCorrect: true
+      text: To style web pages
+    - isCorrect: false
+      text: To write backend code
+    - isCorrect: false
+      text: To design databases
+    - isCorrect: false
+      text: None of the above
+  question: What is the use of CSS?
+- answers:
+    - isCorrect: false
+      text: Python
+    - isCorrect: true
+      text: Java
+    - isCorrect: false
+      text: C++
+    - isCorrect: false
+      text: None of the above
+  question: Which programming language is known as 'write once, run anywhere'?
+- answers:
+    - isCorrect: true
+      text: Integrated Development Environment
+    - isCorrect: false
+      text: Internet Development Editor
+    - isCorrect: false
+      text: Internal Debugging Environment
+    - isCorrect: false
+      text: None of the above
+  question: What does IDE stand for?
+- answers:
+    - isCorrect: false
+      text: A backend framework
+    - isCorrect: true
+      text: A JavaScript library for building UIs
+    - isCorrect: false
+      text: A database
+    - isCorrect: false
+      text: None of the above
+  question: What is React?
+- answers:
+    - isCorrect: false
+      text: Java
+    - isCorrect: true
+      text: Swift
+    - isCorrect: false
+      text: Python
+    - isCorrect: false
+      text: None of the above
+  question: Which language is primarily used for iOS development?
+- answers:
+    - isCorrect: true
+      text: .py
+    - isCorrect: false
+      text: .java
+    - isCorrect: false
+      text: .txt
+    - isCorrect: false
+      text: None of the above
+  question: What is the file extension for Python scripts?
+- answers:
+    - isCorrect: true
+      text: <link>
+    - isCorrect: false
+      text: <style>
+    - isCorrect: false
+      text: <css>
+    - isCorrect: false
+      text: None of the above
+  question: Which tag is used to link a CSS file in HTML?
+- answers:
+    - isCorrect: true
+      text: Version control
+    - isCorrect: false
+      text: Compiling code
+    - isCorrect: false
+      text: Hosting websites
+    - isCorrect: false
+      text: None of the above
+  question: What is the purpose of Git?
+- answers:
+    - isCorrect: true
+      text: Structured Query Language
+    - isCorrect: false
+      text: Simple Query Language
+    - isCorrect: false
+      text: System Query Logic
+    - isCorrect: false
+      text: None of the above
+  question: What does SQL stand for?
+- answers:
+    - isCorrect: true
+      text: To provide an interface for software interaction
+    - isCorrect: false
+      text: To store data
+    - isCorrect: false
+      text: To style web pages
+    - isCorrect: false
+      text: None of the above
+  question: What is the main purpose of an API?
+- answers:
+    - isCorrect: true
+      text: Kotlin
+    - isCorrect: false
+      text: Swift
+    - isCorrect: false
+      text: C#
+    - isCorrect: false
+      text: None of the above
+  question: Which language is primarily used for Android development?
+- answers:
+    - isCorrect: true
+      text: '80'
+    - isCorrect: false
+      text: '443'
+    - isCorrect: false
+      text: '22'
+    - isCorrect: false
+      text: None of the above
+  question: What is the default port for HTTP?
+- answers:
+    - isCorrect: true
+      text: Random Access Memory
+    - isCorrect: false
+      text: Read Access Memory
+    - isCorrect: false
+      text: Run Access Memory
+    - isCorrect: false
+      text: None of the above
+  question: What does RAM stand for?
+- answers:
+    - isCorrect: true
+      text: A reusable block of code
+    - isCorrect: false
+      text: A variable
+    - isCorrect: false
+      text: A database
+    - isCorrect: false
+      text: None of the above
+  question: What is a function in programming?
+- answers:
+    - isCorrect: true
+      text: def
+    - isCorrect: false
+      text: function
+    - isCorrect: false
+      text: define
+    - isCorrect: false
+      text: None of the above
+  question: Which keyword is used to define a function in Python?
+- answers:
+    - isCorrect: true
+      text: Model-View-Controller
+    - isCorrect: false
+      text: Markup-View-Content
+    - isCorrect: false
+      text: Model-Variable-Content
+    - isCorrect: false
+      text: None of the above
+  question: What does MVC stand for in web development?
+- answers:
+    - isCorrect: true
+      text: To iterate over a sequence
+    - isCorrect: false
+      text: To check conditions
+    - isCorrect: false
+      text: To declare variables
+    - isCorrect: false
+      text: None of the above
+  question: What is the purpose of the 'for' loop?
+- answers:
+    - isCorrect: true
+      text: Python
+    - isCorrect: false
+      text: HTML
+    - isCorrect: false
+      text: CSS
+    - isCorrect: false
+      text: None of the above
+  question: Which language is commonly used for data analysis?
+- answers:
+    - isCorrect: true
+      text: A blueprint for creating objects
+    - isCorrect: false
+      text: A loop
+    - isCorrect: false
+      text: A function
+    - isCorrect: false
+      text: None of the above
+  question: What is a class in object-oriented programming?
+- answers:
+    - isCorrect: true
+      text: append()
+    - isCorrect: false
+      text: add()
+    - isCorrect: false
+      text: insert()
+    - isCorrect: false
+      text: None of the above
+  question: Which method is used to add elements to a list in Python?
+- answers:
+    - isCorrect: true
+      text: HyperText Transfer Protocol Secure
+    - isCorrect: false
+      text: HyperText Transfer Service
+    - isCorrect: false
+      text: HyperTool Transfer Protocol Secure
+    - isCorrect: false
+      text: None of the above
+  question: What does HTTPS stand for?
+- answers:
+    - isCorrect: true
+      text: ==
+    - isCorrect: false
+      text: '='
+    - isCorrect: false
+      text: ===
+    - isCorrect: false
+      text: None of the above
+  question: Which operator is used for equality comparison in Python?
+- answers:
+    - isCorrect: true
+      text: Stack
+    - isCorrect: false
+      text: Queue
+    - isCorrect: false
+      text: Array
+    - isCorrect: false
+      text: None of the above
+  question: Which data structure uses LIFO (Last In, First Out)?
+- answers:
+    - isCorrect: true
+      text: Containerization
+    - isCorrect: false
+      text: Cloud storage
+    - isCorrect: false
+      text: Web hosting
+    - isCorrect: false
+      text: None of the above
+  question: What is Docker used for?
+- answers:
+    - isCorrect: true
+      text: scikit-learn
+    - isCorrect: false
+      text: Django
+    - isCorrect: false
+      text: Flask
+    - isCorrect: false
+      text: None of the above
+  question: Which Python library is commonly used for machine learning?
+- answers:
+    - isCorrect: true
+      text: To create interactive web pages
+    - isCorrect: false
+      text: To style web pages
+    - isCorrect: false
+      text: To write server-side code
+    - isCorrect: false
+      text: None of the above
+  question: What is the main purpose of JavaScript?
+- answers:
+    - isCorrect: true
+      text: SMTP
+    - isCorrect: false
+      text: HTTP
+    - isCorrect: false
+      text: FTP
+    - isCorrect: false
+      text: None of the above
+  question: Which protocol is used for sending emails?
+- answers:
+    - isCorrect: true
+      text: A code hosting platform for collaboration
+    - isCorrect: false
+      text: A text editor
+    - isCorrect: false
+      text: A programming language
+    - isCorrect: false
+      text: None of the above
+  question: What is GitHub?
+- answers:
+    - isCorrect: true
+      text: To return a value from a function
+    - isCorrect: false
+      text: To end a loop
+    - isCorrect: false
+      text: To print a value
+    - isCorrect: false
+      text: None of the above
+  question: What is the purpose of the 'return' statement in Python?
+- answers:
+    - isCorrect: true
+      text: <a>
+    - isCorrect: false
+      text: <link>
+    - isCorrect: false
+      text: <href>
+    - isCorrect: false
+      text: None of the above
+  question: Which HTML tag is used for creating a hyperlink?
+- answers:
+    - isCorrect: true
+      text: To store and exchange data
+    - isCorrect: false
+      text: To write backend code
+    - isCorrect: false
+      text: To style web pages
+    - isCorrect: false
+      text: None of the above
+  question: What is the purpose of JSON?
+- answers:
+    - isCorrect: true
+      text: class
+    - isCorrect: false
+      text: define
+    - isCorrect: false
+      text: object
+    - isCorrect: false
+      text: None of the above
+  question: Which keyword is used to create a class in Python?
+- answers:
+    - isCorrect: true
+      text: Document Object Model
+    - isCorrect: false
+      text: Data Object Map
+    - isCorrect: false
+      text: Document Output Manager
+    - isCorrect: false
+      text: None of the above
+  question: What does DOM stand for in web development?
+- answers:
+    - isCorrect: true
+      text: Queue
+    - isCorrect: false
+      text: Stack
+    - isCorrect: false
+      text: Array
+    - isCorrect: false
+      text: None of the above
+  question: Which data structure uses FIFO (First In, First Out)?
+- answers:
+    - isCorrect: true
+      text: Authentication
+    - isCorrect: false
+      text: Encryption
+    - isCorrect: false
+      text: Data storage
+    - isCorrect: false
+      text: None of the above
+  question: What is an API key used for?
+- answers:
+    - isCorrect: true
+      text: color
+    - isCorrect: false
+      text: text-color
+    - isCorrect: false
+      text: font-color
+    - isCorrect: false
+      text: None of the above
+  question: Which CSS property is used to change the text color?
+- answers:
+    - isCorrect: true
+      text: To initialize an object
+    - isCorrect: false
+      text: To define methods
+    - isCorrect: false
+      text: To delete an object
+    - isCorrect: false
+      text: None of the above
+  question: What is the purpose of a constructor in a class?
+- answers:
+    - isCorrect: true
+      text: PHP
+    - isCorrect: false
+      text: CSS
+    - isCorrect: false
+      text: HTML
+    - isCorrect: false
+      text: None of the above
+  question: Which language is commonly used for server-side programming?
+- answers:
+    - isCorrect: true
+      text: To execute code based on a condition
+    - isCorrect: false
+      text: To repeat a block of code
+    - isCorrect: false
+      text: To declare variables
+    - isCorrect: false
+      text: None of the above
+  question: What is the purpose of the 'if' statement?
+- answers:
+    - isCorrect: true
+      text: <script>
+    - isCorrect: false
+      text: <javascript>
+    - isCorrect: false
+      text: <js>
+    - isCorrect: false
+      text: None of the above
+  question: Which HTML element is used to include JavaScript code?
+- answers:
+    - isCorrect: true
+      text: HTTPS
+    - isCorrect: false
+      text: HTTP
+    - isCorrect: false
+      text: FTP
+    - isCorrect: false
+      text: None of the above
+  question: Which protocol is used to secure communication over the internet?
+- answers:
+    - isCorrect: true
+      text: and
+    - isCorrect: false
+      text: '&&'
+    - isCorrect: false
+      text: '&'
+    - isCorrect: false
+      text: None of the above
+  question: Which operator is used for logical AND in Python?
