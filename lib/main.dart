@@ -161,6 +161,27 @@ class _QuizPageState extends State<QuizPage> {
               );
             }).toList(),
             const Spacer(),
+            TextButton(
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => LeaderboardPage(
+                      leaderboard: _leaderboard,
+                    ),
+                  ),
+                );
+              },
+              child: const Text(
+                'View Leaderboard',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.blue,
+                  decoration: TextDecoration.underline, // Makes it look like a link
+                ),
+              ),
+            ),
+            const SizedBox(height: 10),
             Text(
               'Your Score: $_score',
               style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
@@ -202,6 +223,30 @@ class LostPage extends StatelessWidget {
             ),
           ],
         ),
+      ),
+    );
+  }
+}
+
+class LeaderboardPage extends StatelessWidget {
+  final List<int> leaderboard;
+
+  const LeaderboardPage({super.key, required this.leaderboard});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Leaderboard'),
+      ),
+      body: ListView.builder(
+        itemCount: leaderboard.length,
+        itemBuilder: (context, index) {
+          return ListTile(
+            title: Text('Player ${index + 1}'),
+            trailing: Text('${leaderboard[index]} points'),
+          );
+        },
       ),
     );
   }
